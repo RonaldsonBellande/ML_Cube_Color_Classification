@@ -64,7 +64,6 @@ from multiprocessing import Pool
 warnings.filterwarnings('ignore')
 # get_ipython().magic(u'matplotlib inline')
 # plt.style.use('ggplot')
-plt.style.use('classic')
 # import class from other functions
 import datetime
 
